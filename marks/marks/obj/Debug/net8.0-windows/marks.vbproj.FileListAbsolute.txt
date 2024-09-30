@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.Form1.resources
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.AssemblyInfo.vb
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\marks\marks\bin\Debug\net8.0-windows\marks.exe
+C:\Users\DELL\source\repos\marks\marks\bin\Debug\net8.0-windows\marks.deps.json
+C:\Users\DELL\source\repos\marks\marks\bin\Debug\net8.0-windows\marks.runtimeconfig.json
+C:\Users\DELL\source\repos\marks\marks\bin\Debug\net8.0-windows\marks.dll
+C:\Users\DELL\source\repos\marks\marks\bin\Debug\net8.0-windows\marks.pdb
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.dll
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\refint\marks.dll
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.pdb
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\marks.genruntimeconfig.cache
+C:\Users\DELL\source\repos\marks\marks\obj\Debug\net8.0-windows\ref\marks.dll
